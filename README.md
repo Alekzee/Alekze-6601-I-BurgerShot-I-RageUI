@@ -1,2 +1,2 @@
-# Alekze-6601-I-BurgerShot-I-RageUI
-Job BurgerShot crée en RageUI by Alekze#6601
+# Burger Shot RageUI
+Pour plus de renseignement rendez-vous sur discord : Alekze#6601
